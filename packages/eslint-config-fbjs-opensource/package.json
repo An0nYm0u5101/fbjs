@@ -16,10 +16,10 @@
   "dependencies": {
     "babel-eslint": "^10.0.1",
     "eslint-plugin-babel": "^5.2.1",
-    "eslint-plugin-flowtype": "^2.43.0",
+    "eslint-plugin-flowtype": "^6.0.0",
     "eslint-plugin-jasmine": "^2.10.1",
     "eslint-plugin-prefer-object-spread": "^1.2.1",
-    "eslint-plugin-react": "^7.6.1",
+    "eslint-plugin-react": "^7.20.0",
     "fbjs-eslint-utils": "^1.0.0"
   },
   "peerDependencies": {
